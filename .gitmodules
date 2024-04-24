@@ -1,0 +1,6 @@
+[submodule "smart-contracts"]
+	path = smart-contracts
+	url = https://github.com/panicd9/Payment-splitter-smart-contracts
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/panicd9/payment-frontend
